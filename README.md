@@ -22,7 +22,7 @@ A cron job is a scheduled task that allows you to run scripts or commands at spe
 - __Basic Format of a Cron Job__
 - ```***** /usr/bin/python3 /path/to/task.py```
 - __Explanation of the syntax:__
-- [Cron-Stars-explain]()  
+- [Cron-Stars-explain](./cron_jobs_star.png)  
 - ```minutes hour day(month) month day(week) command.``` [Crontab-guru](https://crontab.guru/#)  
 - [Cron-Stars-workflow]()  
 
