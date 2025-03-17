@@ -45,7 +45,7 @@ A cron job is a scheduled task that allows you to run scripts or commands at spe
 
 ## Environment Variables in Cron 
 
-setting soecific environment variables for a cron job.  
+setting specific environment variables for a cron job.  
 
 - set PATH in crontab
 - PATH=```/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin```
