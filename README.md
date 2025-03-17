@@ -33,7 +33,7 @@ A cron job is a scheduled task that allows you to run scripts or commands at spe
 - Using ```@reboot```, ```@daily``` , ```@hourly``` , etc.., for easy scheduling.
 - Example : Running a script at reboot.  
 - ```@reboot /path/to/script.sh```  
-- [common_special_strings]()  
+- [common_special_strings](./common_special_strings.png)  
 
 ---
 
