@@ -56,6 +56,5 @@ setting soecific environment variables for a cron job.
 
 ## Common issues and Troubleshooting Tips
 
-- check log under ```/var/log/cron```
-- 
+- check log under ```/var/log/cron```  
 
